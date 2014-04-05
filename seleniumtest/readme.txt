@@ -1,0 +1,1 @@
+this folder is for placing selenium automation code. 
